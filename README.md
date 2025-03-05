@@ -1,7 +1,9 @@
-대한항공 SQL 클론 프로젝트 <img src="oracleSql.png">
+<img src="oracleSql.png" width="40" height="40">&nbsp;&nbsp;대한항공 SQL 클론 프로젝트 
 ---
 Oracle Sql만을 사용하여 데이터가 어떻게 흘러가는 지 추론하여 구상하였습니다.  
 
 제가 맡은 부분은 회원 조회와 마일리지 파트입니다.  
 
 프로시저, 트리거 등을 활용하여 시스템을 Sql로만 구성해보았습니다.  
+
+// 여기다가 내가 만든 프로시저, 트리거, Sql, erdCloud, 실행화면 다 이미지로 끼워넣기 . 
